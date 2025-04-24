@@ -1,0 +1,6 @@
+===== RESULTADO DOS TESTES =====
+✔️ Comprimento da estrada correto
+✔️ Menor vizinhança correta
+❌ Cidade com menor vizinhança incorreta (L’pur )
+
+🔎 Você acertou 3 de 4 itens. Nota final: 1.50 / 2.00
